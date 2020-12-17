@@ -1,2 +1,2 @@
 This is a more comprehensive test file.
-This is to cause problems.
+This change will cause a conflict now.
